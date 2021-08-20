@@ -1,4 +1,4 @@
-**Redux Saga POC**
+**:atom_symbol: Redux Saga POC**
 
 POC made for Redux Saga studying purposes
 
