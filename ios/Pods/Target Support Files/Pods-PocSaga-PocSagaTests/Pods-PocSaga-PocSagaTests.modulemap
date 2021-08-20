@@ -1,0 +1,6 @@
+module Pods_PocSaga_PocSagaTests {
+  umbrella header "Pods-PocSaga-PocSagaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
